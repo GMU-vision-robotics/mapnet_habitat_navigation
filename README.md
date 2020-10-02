@@ -1,1 +1,1 @@
-# mapnet_habitat_navigation
+Code for running "Simultaneous Mapping and Target-driven Navigation" in Habitat simulator.
